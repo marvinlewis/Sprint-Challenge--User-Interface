@@ -276,3 +276,29 @@ footer nav a {
     justify-content: center;
 
 }
+
+
+
+
+
+
+/* ABOUT PAGE ------ STARTS HERE !!! */
+
+.about:hover{
+	background-color: salmon;
+}
+
+.abouttitle {
+	font-size: 200%;
+	margin-top: 30px; 
+}
+
+.abouttitle:hover {
+	background-color: salmon;
+}
+
+.abouttitlediv {
+	display: flex;
+	justify-content: left;
+
+
