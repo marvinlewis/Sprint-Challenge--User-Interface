@@ -273,9 +273,7 @@ footer nav a {
     color: dodgerblue;
     display: flex;
     align-items: center;
-    justify-content: center;
-
-}
+    justify-content: center;}
 
 
 
@@ -368,5 +366,5 @@ footer nav{
 .lets {
     line-height: 1.5;
     margin-top: 50px;
-    margin-bottom: 50px;;
+    margin-bottom: 50px;
 }
